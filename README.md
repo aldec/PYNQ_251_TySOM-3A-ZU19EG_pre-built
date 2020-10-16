@@ -1,8 +1,9 @@
 # PYNQ_251_TySOM-3A-ZU19EG_pre-built
 
-# Table of Content
+## Table of Content
 1. [How to download](#how_to_download)
-1. [TySOM](#tysom_main)
+2. [TySOM](#tysom_main)
+3. [Pre-buil image for PYNQ](#pre_built_image)
 
 <a name="how_to_download"/>
 
@@ -32,6 +33,8 @@ Aldec provides the following list of boards:
 [Link to the TySOM boards page](https://www.aldec.com/en/products/emulation/tysom_boards)
 
 TySOM-3A, TySOM-3, TySOM-2 and TySOM-2A families contain FMC connectors which can be used to extend devices and peripherals not included in TySOM boards. Due to non-proprietary connectors like FMC Daughter Cards can be reused across different hardware platforms.
+
+<a name="pre_built_image"/>
 
 ## Pre-buil image for PYNQ
 
